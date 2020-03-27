@@ -1,0 +1,259 @@
+.boxific-controls{
+	margin-top: 30px;
+	width: 80%;
+}
+
+	.boxific-controls ul{
+		float: left;
+	}
+	
+		.boxific-controls ul li{
+			float: left;
+			margin-right: 10px;
+		}
+		
+			.boxific-controls ul li a{
+				padding: 3px 10px;
+				background: -moz-linear-gradient(center bottom , #E7E7E7, #FFFFFF) repeat scroll 0 0 transparent;
+				border: 1px solid #ccc;
+				-moz-border-radius: 20px;
+				-webkit-border-radius: 20px;
+				text-shadow: 1px 1px #fff;
+				text-decoration: none;
+				color: #555;
+			}
+	
+	.boxific-controls .save-all{
+		overflow: hidden;
+	}
+
+	.boxific-controls .save-all a{
+		display: block;
+		float: right;
+		padding: 3px 10px;
+		background: -moz-linear-gradient(center bottom , #E7E7E7, #FFFFFF) repeat scroll 0 0 transparent;
+		border: 1px solid #ccc;
+		-moz-border-radius: 20px;
+		-webkit-border-radius: 20px;
+		text-shadow: 1px 1px #fff;
+		text-decoration: none;
+		color: #555;
+	}
+	
+		.boxific-controls .save-all a.ajax span{
+			padding-left: 30px;
+			background: url(images/ajaxloader.gif) no-repeat 5px 3px;
+		}
+		
+	#boxific-add-rule a{
+		padding: 5px 10px;
+		font-size: 16px;
+		background: -moz-linear-gradient(center bottom , #E7E7E7, #FFFFFF) repeat scroll 0 0 transparent;
+		border: 1px solid #ccc;
+		-moz-border-radius: 20px;
+		-webkit-border-radius: 20px;
+		text-shadow: 1px 1px #fff;
+		text-decoration: none;
+		color: #555;
+	}
+	
+		#boxific-add-rule{
+			margin: 20px 0;
+		}
+		
+		#boxific-add-rule a span{
+			padding-left: 30px;
+			background: url(images/plus.png) no-repeat 3px 2px;
+		}
+	
+#boxific-box-factory{
+	clear: both;
+}
+
+
+.boxific-rule{
+	width: 80%;
+	min-width: 820px;
+	overflow: hidden;
+}
+
+	.boxific-rule-controls{
+		width: 200px;
+		float: right;
+		text-align: right;
+		padding-right: 10px;
+		position: relative;
+		top: 27px;
+	}
+	
+		.boxific-rule-controls .collapse, .boxific-rule-controls .delete{
+			cursor: pointer;
+		}
+
+	.boxific-rule fieldset{
+		clear: both;
+		border: 1px solid #ccc;
+		padding: 10px;
+		-moz-border-radius: 5px 5px 5px 5px;
+		-webkit-border-radius: 5px 5px 5px 5px;
+	}
+	
+		.boxific-rule fieldset label{
+			display: block;
+			margin: 5px 0 5px 3px;
+			font-size: 10px;
+			color: #777;
+			cursor: default;
+		}
+		
+		.boxific-rule fieldset select{
+			font-size: 10px !important;
+		}
+	
+		.boxific-rule fieldset legend{
+			padding-left: 5px;
+			padding-right: 0px;
+		}
+		
+			.boxific-rule fieldset legend.focused{
+				background: #eee !important;
+			}
+		
+			.boxific-selector-wrap{
+				display: block;
+				overflow: hidden;
+				width: 50px;
+				padding-right: 5px;
+				min-width: 20px;
+				
+			}
+			
+			.boxific-selector, .boxific-selector-prototype, .boxific-rule-collapsed{
+				border: none !important;
+				background: transparent !important;
+				color: #333;
+			    font-size: 18px;
+			    text-shadow: 1px 1px #fff;
+			}
+			
+			.boxific-selector{
+				width: 800px;
+				position: relative;
+			}
+			
+			.boxific-selector-prototype{
+				display: none;
+			}
+			
+			.boxific-rule-collapsed{
+				height: 20px;
+				display: none;
+				padding-left: 11px;
+				margin-top: 27px;
+				background: url(images/line.gif) repeat-x 0 8px !important;
+			}
+			
+				.boxific-rule-collapsed span{
+					background: #f9f9f9;
+					padding-left: 10px;
+					padding-right: 10px;
+				}
+	
+.boxific-box-settings{
+	width: 95%;     
+	float: left;                                         
+}
+    [class^="boxific-box-outfit-wrap"]{
+		width:100%;
+		float: left;
+		margin-top: 5px;
+    }
+
+		.boxific-box-color-outer-wrap{
+			float: left;
+			margin-left: 10px;
+		}
+		
+			.boxific-box-color-outer-wrap label{
+				display: inline-flex !important;
+				vertical-align: baseline;
+				margin: 0 !important;
+				color: #777;
+				width:85px;
+			}
+
+			.boxific-box-color-wrap{
+				padding: 2px 0 3px 6px;
+				background: #fff;
+				-moz-border-radius: 3px;
+				border: 1px solid #dfdfdf;
+			}
+                .boxific-box-color-wrap label{
+				width:2px;
+                }
+
+    			.boxific-box-color, .boxific-outline-color, .boxific-shadow-color, .boxific-border-left-color, .boxific-border-bottom-color, .boxific-border-right-color, .boxific-border-top-color{
+	       			background: transparent !important;
+		      		border: none !important;
+			     	text-transform: uppercase;
+    				margin: 0 0 0 -2px;
+	       			padding-left: 0;
+				width:65px;
+		      	}
+
+            [class^="boxific-color"]{
+				position: relative;
+				top: 3px;
+				left: 2px;
+				cursor: pointer;
+			}
+	
+            [class^="boxific-boxwrap-"]{
+			font-size: 10px !important;
+    			float: left;
+	   	       	margin-left: 10px;
+			width: 150px;
+	       	}
+
+            [class^="boxific-boxswrap-"]{
+			font-size: 10px !important;
+    			float: left;
+	   	       	margin-left: 10px;
+			width: 90px;
+	       	}
+
+            .boxific-boxslider{
+		font-size: 8px !important;
+                width: 90px;
+                margin-left: 5px;
+		margin-top: 10px;
+                float: left;       
+            }
+            
+            .boxific-boxselect{
+		font-size: 10px !important;
+    		width: 95px;
+            }
+
+.boxific-box-preview{
+	width: 100%;
+	float: right;
+	
+}
+
+
+.boxific-box{
+	width: 80%;
+	height: 80px;
+	padding: 10px;
+	overflow: hidden;
+	backgound-color:C0C0C0#;
+	border-top:0px dotted #000000;
+	border-left:0px dotted #000000;
+	border-right:0px dotted #000000;
+	border-bottom:0px dotted #000000;
+	border-radius:0px 0px 0px 0px;
+	box-shadow:0px 0px 0px #000000;
+	outline:0px dotted #000000;
+	outline-offset:0px;
+}

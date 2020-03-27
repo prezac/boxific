@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Boxific\n"
+"POT-Creation-Date: 2020-04-01 12:26+0100\n"
+"PO-Revision-Date: 2020-03-27 11:00+0100\n"
+"Language-Team: Petr Rezac <prezac@pr-software.net.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"Last-Translator: Petr Řezáč <prezac@pr-software.net>\n"
+"Language: cs_CZ\n"
+
+msgid "Boxific"
+msgstr "Boxific"
+
+msgid "Boxes"
+msgstr "Boxy"
+
+msgid "Enter selector here"
+msgstr "Vložte selektor"
+
+msgid "Need help? Please visit"
+msgstr "Potřebujete pomoc? Navštivte"
+
+msgid "official plugin website"
+msgstr "oficiální plugin stránku"
+
+msgid "Official boxific website"
+msgstr "Oficiální boxific stránka"
+
+msgid "collapse all"
+msgstr "skrýt vše"
+
+msgid "expand all"
+msgstr "zobrazit vše"
+
+msgid "Save all changes"
+msgstr "Uložit všechny změny"
+
+msgid "New box rule"
+msgstr "Nové box pravidlo"
+
+msgid "Collapse rule"
+msgstr "Skrýt pravidlo"
+
+msgid "Delete rule"
+msgstr "Smazat pravidlo"
+
+msgid "Preview"
+msgstr "Náhled"
+
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo "
+"consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse "
+"cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat "
+"non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo "
+"consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse "
+"cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat "
+"non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+msgid "Background color"
+msgstr "Barva pozadí"
+
+msgid "Shadow color"
+msgstr "Barva stínu"
+
+msgid "Horizontal shadow position"
+msgstr "Horizontální pozice stínu"
+
+msgid "Vertical shadow position"
+msgstr "Vertikální pozice stínu"
+
+msgid "Blur shadow position"
+msgstr "Vzdálenost stínu"
+
+msgid "Top line width"
+msgstr "Šířka horní linky"
+
+msgid "Right line width"
+msgstr "Šířka pravé linky"
+
+msgid "Left line width"
+msgstr "Šířka levé linky"
+
+msgid "Bottom line width"
+msgstr "Šířka dolní linky"
+
+msgid "Top line style"
+msgstr "Styl horní linky"
+
+msgid "Right line style"
+msgstr "Styl pravé linky"
+
+msgid "Left line style"
+msgstr "Styl levé linky"
+
+msgid "Bottom line style"
+msgstr "Styl dolní linky"
+
+msgid "Top line color"
+msgstr "Barva horní linky"
+
+msgid "Right line color"
+msgstr "Barva pravé linky"
+
+msgid "Left line color"
+msgstr "Barva levé linky"
+
+msgid "Bottom line color"
+msgstr "Barva dolní linky"
+
+msgid "Top-left radius"
+msgstr "Horní-levý radius"
+
+msgid "Top-right radius"
+msgstr "Horní-pravý radius"
+
+msgid "Bottom-left radius"
+msgstr "Dolní-levý radius"
+
+msgid "Bottom-right radius"
+msgstr "Dolní-pravý radius"
+
+msgid "Outline width"
+msgstr "Šířka orámování"
+
+msgid "Outline style"
+msgstr "Styl orámování"
+
+msgid "Outline color"
+msgstr "Barva orámování"
+
+msgid "Outline offset"
+msgstr "Vzdálenost orámování"
+
+msgid "dotted"
+msgstr "tečkovaný"
+
+msgid "dashed"
+msgstr "čárkovaný"
+
+msgid "solid"
+msgstr "čára"
+
+msgid "double"
+msgstr "dvojitá čára"
+
+msgid "groove"
+msgstr "drážka"
+
+msgid "ridge"
+msgstr "hřeben"
+
+msgid "none"
+msgstr "žádný"
+
+msgid "inset"
+msgstr "inset"
+
+msgid "outset"
+msgstr "outset"

@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Boxific\n"
+"POT-Creation-Date: 2020-04-01 12:26+0100\n"
+"PO-Revision-Date: 2020-04-01 12:26+0100\n"
+"Language-Team: Petr Rezac <prezac@pr-software.net.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+msgid "Boxific"
+msgstr ""
+
+msgid "Boxes"
+msgstr ""
+
+msgid "Enter selector here"
+msgstr ""
+
+msgid "Need help? Please visit"
+msgstr ""
+
+msgid "official plugin website"
+msgstr ""
+
+msgid "Official boxific website"
+msgstr ""
+
+msgid "collapse all"
+msgstr ""
+
+msgid "expand all"
+msgstr ""
+
+msgid "Save all changes"
+msgstr ""
+
+msgid "New box rule"
+msgstr ""
+
+msgid "Collapse rule"
+msgstr ""
+
+msgid "Delete rule"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Shadow color"
+msgstr ""
+
+msgid "Horizontal shadow position"
+msgstr ""
+
+msgid "Vertical shadow position"
+msgstr ""
+
+msgid "Blur shadow position"
+msgstr ""
+
+msgid "Horizontal shadow position"
+msgstr ""
+
+msgid "Vertical shadow position"
+msgstr ""
+
+msgid "Blur shadow position"
+msgstr ""
+
+msgid "Top line width"
+msgstr ""
+
+msgid "Right line width"
+msgstr ""
+
+msgid "Left line width"
+msgstr ""
+
+msgid "Bottom line width"
+msgstr ""
+
+msgid "Top line style"
+msgstr ""
+
+msgid "Right line style"
+msgstr ""
+
+msgid "Left line style"
+msgstr ""
+
+msgid "Bottom line style"
+msgstr ""
+
+msgid "Top line color"
+msgstr ""
+
+msgid "Right line color"
+msgstr ""
+
+msgid "Left line color"
+msgstr ""
+
+msgid "Bottom line color"
+msgstr ""
+
+msgid "Top-left radius"
+msgstr ""
+
+msgid "Top-right radius"
+msgstr ""
+
+msgid "Bottom-left radius"
+msgstr ""
+
+msgid "Bottom-right radius"
+msgstr ""
+
+msgid "Outline width"
+msgstr ""
+
+msgid "Outline style"
+msgstr ""
+
+msgid "Outline color"
+msgstr ""
+
+msgid "Outline offset"
+msgstr ""
+
+msgid "dotted"
+msgstr ""
+
+msgid "dashed"
+msgstr ""
+
+msgid "solid"
+msgstr ""
+
+msgid "double"
+msgstr ""
+
+msgid "groove"
+msgstr ""
+
+msgid "ridge"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "inset"
+msgstr ""
+
+msgid "outset"
+msgstr ""
+
